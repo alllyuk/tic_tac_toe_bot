@@ -2,7 +2,7 @@
 
 ## Порядок запуска бота
 1. Клонирование репозитория\
-`git clone https://gitverse.ru/alllyuk/tic_tac_toe_bot`
+`git clone https://github.com/alllyuk/tic_tac_toe_bot/`
 
 2. Установка зависимостей\
 `pip install -r requirements.txt`
@@ -16,7 +16,7 @@
 
 ## Порядок запуска тестов
 1. Клонирование репозитория\
-`git clone https://gitverse.ru/alllyuk/tic_tac_toe_bot`
+`git clone https://github.com/alllyuk/tic_tac_toe_bot/`
 
 2. Установка зависимостей\
 `pip install -r requirements.txt`
